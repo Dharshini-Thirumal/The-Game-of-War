@@ -1,0 +1,9 @@
+Test suite war-tests: RUNNING...
+Cases: 10  Tried: 0  Errors: 0  Failures: 0Cases: 10  Tried: 1  Errors: 0  Failures: 0Cases: 10  Tried: 2  Errors: 0  Failures: 0Cases: 10  Tried: 3  Errors: 0  Failures: 0Cases: 10  Tried: 4  Errors: 0  Failures: 0Cases: 10  Tried: 5  Errors: 0  Failures: 0Cases: 10  Tried: 6  Errors: 0  Failures: 0Cases: 10  Tried: 7  Errors: 0  Failures: 0Cases: 10  Tried: 8  Errors: 0  Failures: 0                                           ### Failure in: 8:test9
+tests\WarTest.hs:51
+t9
+expected: [7,3,7,4,8,5,10,8,11,3,13,6,9,5,11,10,12,6,1,8,1,9,1,11,13,6,1,12,10,2,12,8,11,3,13,9,4,3,10,7,6,5,5,4,9,4,7,2,2,2,13,12]
+ but got: [7,3,7,4,8,5,10,8,11,3,13,6,9,5,11,10,12,6,1,8,1,9,1,11,13,6,1,12,10,2,12,8,11,3,13,9,4,3,10,7,6,5,5,4,9,4,13,12,7,2,2,2]
+Cases: 10  Tried: 9  Errors: 0  Failures: 1                                           Cases: 10  Tried: 10  Errors: 0  Failures: 1
+Test suite war-tests: FAIL
+Test suite logged to: C:\Users\Dharshini Thirumal\Desktop\Winter 2023 Textbooks\506_Labs\cps506_project_haskell\war_hs\dist-newstyle\build\x86_64-windows\ghc-9.2.5\war-0.1.0.0\t\war-tests\test\war-0.1.0.0-war-tests.log
